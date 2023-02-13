@@ -18,6 +18,7 @@ top_left_y = s_height - board_height
 background = pygame.image.load('scaled bg.png')
 
 # Piece Rotations
+# meow meow
 
 T = [['.....',
 	   '...0.',
